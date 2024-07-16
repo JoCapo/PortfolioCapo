@@ -30,7 +30,7 @@
 	position: absolute;
 	width: 2004px;
 	height: 6320px;
-	background-color: rgba(0,0,0,1);
+	background-color: #b3f7fd;
 	overflow: hidden;
 	--web-view-name: HomePage;
 	--web-view-id: HomePage;
